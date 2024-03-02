@@ -1,7 +1,7 @@
 
 # Country-Php
 
-This repository contains a PHP
+This code snippet opens a CSV file containing country data, establishes a connection to a MySQL database, creates a table to store the country data if it doesn't exist, and inserts the country names into the table after decoding them from UTF-8. It's a basic implementation for handling country-related functionality in PHP.
 
 ## Installation
 
