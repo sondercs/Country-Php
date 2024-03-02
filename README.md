@@ -40,4 +40,4 @@ cd Country-Php
 
 If you have any questions or concerns, feel free to contact the project owner:
 
-- GitHub: [sondercs](https://github.com/sondercs)
+- LinkTree: [Sonder_cs]https://linktr.ee/Sonder_cs)
