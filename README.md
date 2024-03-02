@@ -1,7 +1,7 @@
 
 # Country-Php
 
-This repository contains a PHP project for handling country-related functionality. It provides functionalities such as fetching country data, performing operations on countries, and more.
+This repository contains a PHP
 
 ## Installation
 
